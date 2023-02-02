@@ -1,0 +1,15 @@
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\bin\Debug\net7.0\Training.exe
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\bin\Debug\net7.0\Training.deps.json
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\bin\Debug\net7.0\Training.runtimeconfig.json
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\bin\Debug\net7.0\Training.dll
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\bin\Debug\net7.0\Training.pdb
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.csproj.AssemblyReference.cache
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.AssemblyInfoInputs.cache
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.AssemblyInfo.cs
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.dll
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\refint\Training.dll
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.pdb
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\Training.genruntimeconfig.cache
+C:\Users\Abyan\OneDrive\Documents\Code\c#\Training\obj\Debug\net7.0\ref\Training.dll
